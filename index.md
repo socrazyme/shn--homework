@@ -6,7 +6,7 @@
 2. [02-进制转换](hw02)
 3. [03-溢出错误与精度误差](hw03)
 4. [04-色彩](hw04)
-
+5. [05-电路](hw05)
 
 ## 实验与实践
 
@@ -31,3 +31,6 @@
 ## Markdown 语法演示
 
 ![](images/exclamation.png) 语法 [demo 文档](demo)， [source](https://github.com/sysu-swi/homework/blob/gh-pages/demo.md)
+
+
+
